@@ -26,6 +26,7 @@ can run:
 
     $ export PKG_CONFIG=/usr/bin/pkgconf
 
+
 ## comparison of `pkgconf` and `pkg-config` dependency resolvers
 
 pkgconf builds an acyclic directed dependency graph.  This allows for the user
